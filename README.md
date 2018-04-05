@@ -8,7 +8,7 @@ it takes a list files as arguments and computes the encompassing square for all 
 ##### inputs:  squares files
 The file names are sent in as arguments
 
-Each file containes
+Each line in each file contains a square's
   - bottom X value
   - bottom Y value
   - length
