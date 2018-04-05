@@ -27,6 +27,7 @@ Example:
 the output will include:
   - the high and low X and Y values for the encompassing square
   - the coordinates of the encompassing square
+This will be produced for each squares file passed in.
 
 ```
 $python3 get_square.py squares_3.dat
