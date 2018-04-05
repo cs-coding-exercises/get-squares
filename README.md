@@ -14,7 +14,7 @@ Each line in each file contains a square's
   - length
   - height
   
-Examples:  
+Example:  
 ```
 #squares_3.dat
 5 9 10 40
