@@ -20,6 +20,7 @@ the output will include:
   - the high and low X and Y values for the encompassing square
   - the coordinates of the encompassing square
 
+'''
 ==============================
 Lower_X: 5
 Lower_Y: 9
@@ -30,5 +31,5 @@ Bottom Left  : 5,9
 Bottom Right : 25,9
 Top Left     : 5,119
 Top Right    : 25,119
-  
+'''
 
