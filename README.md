@@ -13,7 +13,9 @@ Each line in each file contains a square's
   - bottom Y value
   - length
   - height
-  
+
+The files are in the same directory as the get_square.py file.  This can be changed within the code.
+
 Example:  
 ```
 #squares_3.dat
