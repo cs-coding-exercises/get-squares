@@ -1,11 +1,11 @@
-# get-squares
+## get-squares
 
 The algorithm takes attributes of multiple squares from a file and computes the coordinates of the square that would encompass all of them
 
 it takes a list files as arguments and computes the encompassing square for all of the squares in each individual file (not all squares in all files combined)
 
 
-##### inputs:  squares files
+## inputs:  squares files
 The file names are sent in as arguments
 
 Each line in each file contains a square's
@@ -15,7 +15,7 @@ Each line in each file contains a square's
   - height
   
   
-##### output
+## output
 the output will include:
   - the high and low X and Y values for the encompassing square
   - the coordinates of the encompassing square
